@@ -1,0 +1,7 @@
+{
+  "name": "Robô JB Dinho - Analisador Inteligente",
+  "description": "Um assistente avançado para análise de resultados de loteria, cálculo de números atrasados e geração de milhares baseadas em tendências estatísticas para as principais loterias brasileiras.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

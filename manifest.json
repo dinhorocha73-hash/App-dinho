@@ -1,0 +1,23 @@
+
+{
+  "name": "Robô JB Dinho",
+  "short_name": "JB Dinho",
+  "description": "Inteligência Preditiva para Jogo do Bicho",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050a0f",
+  "theme_color": "#050a0f",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2592/2592201.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/192/2592/2592201.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
